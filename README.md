@@ -1,11 +1,11 @@
 # Current Professional Portfolio
 
-This is a legacy GitHub account and I have recently legally changed my name.
+You may have reached this page from an earlier résumé or job application.
 
-My current professional profile is:
+My current professional GitHub profile is:
 
 [Amy Skye Goodell](https://github.com/amy-skye-goodell)
 
-Current data-engineering projects are maintained through:
+Current data-engineering projects are published through:
 
 [Triangle Data Works](https://github.com/triangledataworks)
